@@ -6,4 +6,10 @@
     <string name="higher">Higher</string>
     <string name="_1_100">1 - 100</string>
     <string name="submit">submit</string>
+    <string name="you_won">You won!</string>
+    <string name="the_correct_number_was_1_d">The correct number was %1$d</string>
+    <string name="want_to_go_again">Want to go again?</string>
+    <string name="chances_left" />
+    <string name="lower" />
+    <string name="You_lose">You lost</string>
 </resources>
